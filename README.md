@@ -10,9 +10,15 @@
 - ***Потоковая обработка***: Apache Kafka с сериализацией данных через Avro и Protobuf
 - ***Тестирование***: JUnit, Mockito
 ## Мои проекты:
+🔹[Explore With Me](https://github.com/Kanava812/explore-with-me) - микросервисное приложение для организации мероприятий.
 
+🔹[Smart Home Tech](https://github.com/Kanava812/smart-home-tech) - микросервисная платформа для умного дома с интеграцией e‑commerce.
+
+🔹[ShareIt](https://github.com/Kanava812/shareit) - сервис аренды вещей с бэкендом на Spring Boot. Реализована бизнес‑логика бронирования: управление запросами, статусами, валидацией доступности. Стек: Spring Data JPA, Hibernate, PostgreSQL.
+
+🔹[Filmorate](https://github.com/Kanava812/filmorate.git) - сервис рекомендаций фильмов. Стек: Spring Boot + JDBC + PostgreSQL. Оптимизированные SQL-запросы, DTO, слоистая архитектура.
 ## Контакты:
-💬 **Telegram**: https://t.me/kanava812
+💬 **Telegram**: https://t.me/kanavtcev
 📧 **Почта**: knvznr@yandex.ru <br>
 Рассматриваю предложения о трудоустройстве, доступен для собеседований.
 
